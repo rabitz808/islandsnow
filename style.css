@@ -3,3 +3,9 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.borderless.white.menu {
+  background-color: white;
+  box-shadow: none;
+  border: none;
+}
